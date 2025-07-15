@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Generative AI,MachineLearning**
 
-- 👯 I’m looking to collaborate on [SignEase](https://github.com/kullayiReddy/SignEase.git)
-
 - 📫 How to reach me **kullayireddy374@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
